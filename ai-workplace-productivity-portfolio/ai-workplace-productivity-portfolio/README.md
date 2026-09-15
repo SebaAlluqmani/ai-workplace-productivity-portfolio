@@ -1,10 +1,10 @@
 # AI Workplace Productivity Portfolio — Project Coordinator
 
 ## Trainee Information
-- Trainee Name: [Your Full Name]
+- Trainee Name: Saba Ahmad Alluqmani
 - Training Program: L0-FGP — Generative AI for Workplace Productivity
 - Instructor: Fahad Alqahtani
-- Date: [Submission Date]
+- Date: September 15, 2026
 
 ## Project Overview
 This repository is a professional portfolio built from the hands-on labs completed during the L0-FGP training program. It demonstrates how a **Project Coordinator** can use generative AI to draft communications, structure prompts, process scattered information, plan multi-step work, verify AI outputs, and apply responsible-AI principles in daily workplace tasks. Every example below is tied to the same recurring scenario: coordinating a fast-moving project with competing stakeholder priorities and tight deadlines.
